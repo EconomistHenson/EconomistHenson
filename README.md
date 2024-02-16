@@ -22,6 +22,7 @@
   - XTwitter
     
 ⚡ Fun fact
+  - I am retired but like to be active
   - although born in US, I been generally cleared for secret projects
   - Great GrandMother may be aboriginal (long story)
 
