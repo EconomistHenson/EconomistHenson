@@ -1,5 +1,5 @@
 👋 Hello/Bonjour, I am an Ottawa based economist who is interested in Python/R.   
-👀 interests include: 
+👀 Interests include: 
 - Quantitative projects related to Program Evaluation
 - Projects related to big Data
 - Studies related to Data Quality
@@ -9,7 +9,7 @@
 - Canadian Political Economy
 - Environment Issues
   
-💞️ I’m looking to collaborate on
+🤝 I’m looking to collaborate on
 - Issues related to COVID 19
 - Program evaluation issues related to labour market programs
 - Use of robots and fake accounts on social media
