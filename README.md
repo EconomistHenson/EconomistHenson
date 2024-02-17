@@ -16,7 +16,7 @@
 - environmental issues, particular global warming
 - remote work, in this COVID age it will take a lot to get me into an office
   
-📫 Being in Ottawa for decades, so I easy to find
+📫 Being in Ottawa for decades, so I am easy to find
 - I am fairly active on social media
   - Facebook
   - LinkedIn
