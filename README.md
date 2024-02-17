@@ -10,11 +10,11 @@
 - Environment Issues
   
 💞️ I’m looking to collaborate on
-- issues related to COVID 19
-- program evaluation issues related to labour market programs
-- use of robots and fake accounts on social media
-- environmental issues, particular global warming
-- remote work, in this COVID age it will take a lot to get me into an office
+- Issues related to COVID 19
+- Program evaluation issues related to labour market programs
+- Use of robots and fake accounts on social media
+- Environmental issues, particular global warming
+- Remote work, in this COVID age it will take a lot to get me into an office
   
 📫 Being in Ottawa for decades, so I am easy to find
 - I am fairly active on social media
@@ -24,6 +24,6 @@
     
 ⚡ Fun fact
   - I am retired but like to be active
-  - although born in US, I been generally cleared for secret projects
+  - Although born in US, I have been generally cleared for secret projects
   - Great GrandMother may be aboriginal (long story)
 
