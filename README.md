@@ -1,13 +1,15 @@
-👋 Hello/Bonjour, I am an Ottawa based economist who is interested in Python/R.   
+👋 Hello/Bonjour, I am an Ottawa based economist who is interested in Data Science.   
 👀 Interests include: 
 - Quantitative projects related to Program Evaluation
 - Projects related to big Data
 - Studies related to Data Quality
+- Python/R are my primary languages
   
 🌱 Although retired, still a perpetual student:
 - I am studying Python (at more advanced levels now)
 - Canadian Political Economy
 - Environment Issues
+- Begining my journey in ChatGPT
   
 🤝 I’m looking to collaborate on
 - Issues related to COVID 19
