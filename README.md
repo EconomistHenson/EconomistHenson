@@ -8,7 +8,7 @@
 🌱 Although retired, still a perpetual student:
 - I am studying Python (at more advanced levels now)
 - Canadian Political Economy
-- Environment Issues
+- Environmental Issues
 - Begining my journey in ChatGPT
   
 🤝 I’m looking to collaborate on
