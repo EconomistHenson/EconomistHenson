@@ -9,7 +9,7 @@
 - I am studying Python (at more advanced levels now)
 - Canadian Political Economy
 - Environmental Issues
-- Begining my journey in ChatGPT
+- Have made a solid start in ChatGPT
   
 🤝 I’m looking to collaborate on
 - Studies related to COVID 19 and the economy
