@@ -12,7 +12,7 @@
 - Begining my journey in ChatGPT
   
 🤝 I’m looking to collaborate on
-- Issues related to COVID 19
+- Studies related to COVID 19 and the economy
 - Program evaluation issues related to labour market programs
 - Use of robots and fake accounts on social media
 - Environmental issues, particular global warming
