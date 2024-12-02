@@ -23,10 +23,10 @@
 - I am fairly active on social media
   - Facebook
   - LinkedIn
-  - XTwitter
+  - Gooble
     
 ⚡ Fun fact
   - I am retired but like to be active
-  - Although born in US, I have been generally cleared for secret projects
+  - Although born in US, I have been generally cleared for secret projects in Canada
   - Great GrandMother may be aboriginal (long story)
 
