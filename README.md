@@ -23,7 +23,7 @@
 - I am fairly active on social media
   - Facebook
   - LinkedIn
-  - Gooble
+  - Reddit
     
 ⚡ Fun fact
   - I am retired but like to be active
